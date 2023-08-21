@@ -1,0 +1,1 @@
+from AiModel import CustomModelClass
