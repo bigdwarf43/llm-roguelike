@@ -13,8 +13,9 @@ INFO_CON_WIDTH = SCREEN_WIDTH - DESC_CON_WIDTH - 10
 
 ROOT_CON_WIDTH = SCREEN_WIDTH - DESC_CON_WIDTH
 ROOT_CON_HEIGHT = SCREEN_HEIGHT - INFO_CON_HEIGHT
+
 #Model paths
-MODEL_URL = "http://6d9d-34-82-193-255.ngrok.io"
+MODEL_URL = "https://a48f-34-142-231-64.ngrok.io"
 
 
-GENRE = "Experimental"
+GENRE = "Cyberfantasy"
